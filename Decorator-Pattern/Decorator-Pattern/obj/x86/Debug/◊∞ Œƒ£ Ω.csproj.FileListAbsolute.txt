@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\装饰模式\装饰模式\bin\Debug\装饰模式.exe
+d:\documents\visual studio 2010\Projects\装饰模式\装饰模式\bin\Debug\装饰模式.pdb
+d:\documents\visual studio 2010\Projects\装饰模式\装饰模式\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\装饰模式\装饰模式\obj\x86\Debug\装饰模式.exe
+d:\documents\visual studio 2010\Projects\装饰模式\装饰模式\obj\x86\Debug\装饰模式.pdb

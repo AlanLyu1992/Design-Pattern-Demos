@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator-Pattern", "装饰模式\Decorator-Pattern.csproj", "{6AF31D1E-F5FD-4B2C-858A-CAE57916D095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF31D1E-F5FD-4B2C-858A-CAE57916D095}.Debug|x86.ActiveCfg = Debug|x86
+		{6AF31D1E-F5FD-4B2C-858A-CAE57916D095}.Debug|x86.Build.0 = Debug|x86
+		{6AF31D1E-F5FD-4B2C-858A-CAE57916D095}.Release|x86.ActiveCfg = Release|x86
+		{6AF31D1E-F5FD-4B2C-858A-CAE57916D095}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

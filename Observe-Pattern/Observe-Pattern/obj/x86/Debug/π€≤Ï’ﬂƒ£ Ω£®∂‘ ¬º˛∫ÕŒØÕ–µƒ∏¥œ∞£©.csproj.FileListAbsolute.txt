@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\观察者模式（对事件和委托的复习）\观察者模式（对事件和委托的复习）\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\观察者模式（对事件和委托的复习）\观察者模式（对事件和委托的复习）\bin\Debug\观察者模式（对事件和委托的复习）.exe
+d:\documents\visual studio 2010\Projects\观察者模式（对事件和委托的复习）\观察者模式（对事件和委托的复习）\bin\Debug\观察者模式（对事件和委托的复习）.pdb
+d:\documents\visual studio 2010\Projects\观察者模式（对事件和委托的复习）\观察者模式（对事件和委托的复习）\obj\x86\Debug\观察者模式（对事件和委托的复习）.exe
+d:\documents\visual studio 2010\Projects\观察者模式（对事件和委托的复习）\观察者模式（对事件和委托的复习）\obj\x86\Debug\观察者模式（对事件和委托的复习）.pdb

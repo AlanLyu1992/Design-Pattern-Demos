@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\bin\Debug\建造者模式.exe
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\bin\Debug\建造者模式.pdb
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\建造者模式.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\建造者模式.exe
+d:\documents\visual studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\建造者模式.pdb
+D:\Documents\Visual Studio 2010\Projects\建造者模式\建造者模式\obj\x86\Debug\建造者模式.Form1.resources

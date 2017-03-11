@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\状态模式\状态模式\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\状态模式\状态模式\bin\Debug\状态模式.exe
+d:\documents\visual studio 2010\Projects\状态模式\状态模式\bin\Debug\状态模式.pdb
+d:\documents\visual studio 2010\Projects\状态模式\状态模式\obj\x86\Debug\状态模式.exe
+d:\documents\visual studio 2010\Projects\状态模式\状态模式\obj\x86\Debug\状态模式.pdb
